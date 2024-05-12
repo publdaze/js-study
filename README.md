@@ -5,8 +5,8 @@
 
 | 주차  |                주제                |                                               질문 모음                                                | **김은지** | **장서윤** |
 | :---: | :--------------------------------: | :----------------------------------------------------------------------------------------------------: | :--------: | ---------- |
-| 1주차 |                변수                |     [🍈](https://github.com/publdaze/js-study/discussions/categories/%ED%81%B4%EB%A1%9C%EC%A0%80)      |     📝     |
-| 1주차 | 데이터 타입 & 타입변환과 단축 평가 | [🍋](https://github.com/publdaze/js-study/discussions/categories/%ED%98%B8%EC%9D%B4%EC%8A%A4%ED%8C%85) |
+| 1주차 |                변수                |     [`🍎`](https://github.com/publdaze/js-study/discussions/categories/%EB%B3%80%EC%88%98)      |     📝     |
+| 1주차 | 데이터 타입 & 타입변환과 단축 평가 | [`🍏`](https://github.com/publdaze/js-study/discussions/categories/%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%83%80%EC%9E%85) [`🍊`](https://github.com/publdaze/js-study/discussions/categories/%ED%83%80%EC%9E%85%EB%B3%80%ED%99%98%EA%B3%BC-%EB%8B%A8%EC%B6%95-%ED%8F%89%EA%B0%80) |
 
 ## 🙊 모의 면접
 
